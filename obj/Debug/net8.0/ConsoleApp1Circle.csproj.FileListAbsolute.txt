@@ -1,0 +1,14 @@
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/bin/Debug/net8.0/ConsoleApp1Circle
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/bin/Debug/net8.0/ConsoleApp1Circle.deps.json
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/bin/Debug/net8.0/ConsoleApp1Circle.runtimeconfig.json
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/bin/Debug/net8.0/ConsoleApp1Circle.dll
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/bin/Debug/net8.0/ConsoleApp1Circle.pdb
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/obj/Debug/net8.0/ConsoleApp1Circle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/obj/Debug/net8.0/ConsoleApp1Circle.AssemblyInfoInputs.cache
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/obj/Debug/net8.0/ConsoleApp1Circle.AssemblyInfo.cs
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/obj/Debug/net8.0/ConsoleApp1Circle.csproj.CoreCompileInputs.cache
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/obj/Debug/net8.0/ConsoleApp1Circle.dll
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/obj/Debug/net8.0/refint/ConsoleApp1Circle.dll
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/obj/Debug/net8.0/ConsoleApp1Circle.pdb
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/obj/Debug/net8.0/ConsoleApp1Circle.genruntimeconfig.cache
+/Users/joshuang/RiderProjects/ConsoleApp1Circle/obj/Debug/net8.0/ref/ConsoleApp1Circle.dll
